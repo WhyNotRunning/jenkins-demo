@@ -1,0 +1,3 @@
+# startup.sh 启动项目
+#!/bin/sh
+sh /home/admin/deploy/startup.sh
